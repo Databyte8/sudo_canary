@@ -1,0 +1,22 @@
+{
+  "name": "sudo_canary",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Databyte8/sudo_canary.git"
+  },
+  "author": "Matteo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Databyte8/sudo_canary/issues"
+  },
+  "homepage": "https://github.com/Databyte8/sudo_canary#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
